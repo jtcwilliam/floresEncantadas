@@ -1,0 +1,312 @@
+/* Large desktop :1170px. */
+@media (min-width: 1170px) and (max-width: 1500px) {
+.header-area .main-menu ul li {padding: 90px 18px 40px;}
+.slider-area .slider-1 h1, .slider-area .slider-2 h1 {font-size: 50px;}
+.slider-area .slider-1 p, .slider-area .slider-2 p, .home-two .slider-area .slider-2 p { padding: 0 5em;}
+.note-me-area .note-me-task p {font-size: 19px;}
+.note-me-area .button a {padding: 15px 24px;}
+.slider-bottom-area .single-slider-bottom .details h2 {font-size: 39px;}
+.program-section-area .total-program-area .single-program .program-details {padding: 54px 0;height: 341px;}
+.program-section-area .total-program-area .single-program .program-feature-image {height: 432px;}
+.rsvp-area .rsvp h2::after { left: 0;  right: 0;margin:auto;}
+.rsvp-area .rsvp .call-back-form fieldset .form-group button.btn-send {font-size: 18px;padding: 15px 10px;}
+.footer-area .main-footer .footer-social-icons ul li a {height: 40px;line-height: 40px;width: 38px;}
+.home-two .header-area .main-menu ul li {padding: 50px 18px;}
+.page-sidebar-area .single-sidebar .sidebar-recent-post .single-post .pull-left {margin: 10px 0;}
+.event-program-area .single-program .program-details {padding: 31px 0;}
+.event-program-area .single-program .program-details h3 a {font-size: 22px;}
+.event-program-area .single-program .program-details p {font-size: 17px;}
+.event-program-area .single-program .program-details h4 { font-size: 24px;}
+.program-section-area .total-program-area .single-program .program-details h3 a {font-size: 30px;}
+.rsvp-area .rsvp p {padding: 0 0px;}
+.rsvp-area .rsvp .call-back-form fieldset .form-group input.form-control, .rsvp-area .rsvp .call-back-form fieldset .form-group select {text-align: center;}
+
+}
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+.header-area .main-menu ul li {padding: 90px 18px 40px;}
+.slider-area .slider-1 h1, .slider-area .slider-2 h1 {font-size: 50px;}
+.slider-area .slider-1 p, .slider-area .slider-2 p, .home-two .slider-area .slider-2 p { padding: 0 5em;}
+.note-me-area .note-me-task p {font-size: 19px;}
+.note-me-area .button a {padding: 15px 24px;}
+.slider-bottom-area .single-slider-bottom .details h2 {font-size: 39px;}
+.program-section-area .total-program-area .single-program .program-details {padding: 54.5px 0;}
+.rsvp-area .rsvp p {padding: 0 5px;}
+.rsvp-area .rsvp h2::after { left: 0;  right: 0;margin:auto;}
+.rsvp-area .rsvp .call-back-form fieldset .form-group button.btn-send {font-size: 18px;padding: 15px 10px;}
+.footer-area .main-footer .footer-social-icons ul li a {height: 40px;line-height: 40px;width: 38px;}
+.home-two .header-area .main-menu ul li {padding: 50px 18px;}
+.page-sidebar-area .single-sidebar .sidebar-recent-post .single-post .pull-left {  display: block;  float: inherit !important;  margin: 10px 0;}
+.event-program-area .single-program .program-details {padding: 31px 0;}
+.event-program-area .single-program .program-details h3 a {font-size: 22px;}
+.event-program-area .single-program .program-details p {font-size: 17px;}
+.event-program-area .single-program .program-details h4 { font-size: 24px;}
+.program-section-area .total-program-area .single-program .program-details h3 a {font-size: 35px;}
+/* Others Code */
+.single-blog .author-post .single-author-post .media .media-body h4.media-heading {font-size: 20px;margin-bottom: 10px;}
+.single-blog .author-comment .single-author-comment .media .media-body ul {margin-bottom: 0;}
+.error-page-area .error-page-message p {padding: 0 100px;}
+.slider-bottom-area, .footer-area {padding: 60px 0 0;}
+.advertise-area {  padding: 90px 0;}
+.rsvp-area .rsvp {margin: 60px 20px;}
+.section-title h2, .program-section-area .total-program-area .single-program .program-details h3 a {font-size: 30px;}
+.error-page-area .error-page h1 {font-size: 200px;}
+.our-story-area,
+.most-important-people-area,
+.portfolio-area,
+.homepage-blog-area,
+.client-logo-area,
+.error-page-area {  padding: 60px 0;}
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.header-area .main-menu ul li {padding: 20px 14px;}
+.slider-area .slider-1 h1, .slider-area .slider-2 h1 {font-size: 50px;}
+.slider-area .slider-1 p, .slider-area .slider-2 p, .home-two .slider-area .slider-2 p { padding: 0;}
+.note-me-area .note-me-task p {font-size: 18px;text-align:center;}
+.note-me-area .button a {padding: 15px 24px;}
+.slider-bottom-area .single-slider-bottom .details h2 {font-size: 39px;}
+.program-section-area .total-program-area .single-program .program-details {padding: 51px 0;}
+.rsvp-area .rsvp p {padding: 0 30px;}
+.rsvp-area .rsvp h2::after { left: 0;  right: 0;margin:auto;}
+.rsvp-area .rsvp .call-back-form fieldset .form-group button.btn-send {font-size: 18px;padding: 15px 10px;}
+.footer-area .main-footer .footer-social-icons ul li a {height: 40px;line-height: 40px;width: 38px;}
+.home-two .header-area .main-menu ul li {padding: 50px 14px;}
+.page-sidebar-area .single-sidebar .sidebar-recent-post .single-post .pull-left {margin: 10px;}
+.event-program-area .single-program .program-details {padding: 31px 0;}
+.event-program-area .single-program .program-details h3 a {font-size: 22px;}
+.event-program-area .single-program .program-details p {font-size: 17px;}
+.event-program-area .single-program .program-details h4 { font-size: 24px;}
+.program-section-area .total-program-area .single-program .program-details h3 a {font-size: 35px;}
+.header-area {position: inherit;}
+.header-area .main-menu ul li a{color:#222222;}
+.header-area .logo-area {  padding: 5px 0;}
+.preview-2 .nivo-controlNav {bottom: 50px;}
+.note-me-area .button {display: block;text-align: center;}
+.note-me-area .button a {display: inline-block;font-size: 14px;margin: 20px auto; text-align: center;}
+.slider-bottom-area .single-slider-bottom .details {margin-top: 3%;text-align: center;}
+.slider-bottom-area .single-slider-bottom img {width:auto;}
+.slider-bottom-area .single-slider-bottom .ring {  margin-top: 0;  text-align: center;}
+.single-slider-bottom{  text-align: center;}
+.our-story-picture {  margin-bottom: 30px;}
+.program-section-area .total-program-area .owl-buttons div {top: 50%;}
+.rsvp-area .rsvp {margin: 140px 153px;}
+.home-two .slider-area .slider-1 h1, .home-two .slider-area .slider-1 h1 span i, .home-two .slider-area .slider-2 h1,  .home-two .slider-area .slider-2 h1 span i {font-size: 45px;}
+.client-logo-area .single-logo {height: 135px;}
+.header-breadcumb-area { padding: 90px 0;}
+.page-sidebar-area {  margin-top: 30px;}
+.padding-top2{padding-top:25px;}
+.contact-us-page-area .contact-box .single-contact-box p {font-size: 15px;}
+/*==== Start gallery masonary v1 area css ====*/
+.most-important-people-area .gallery-masonary-v1-area .single-gallery-masonary-item.span-3 {width: 50%;}
+.homepage-blog-area{padding:60px;}
+/* Others Code */
+.single-blog .author-post .single-author-post .media .media-body h4.media-heading {font-size: 20px;margin-bottom: 10px;}
+.single-blog .author-comment .single-author-comment .media .media-body ul {margin-bottom: 0;}
+.error-page-area .error-page-message p {padding: 0 100px;}
+.slider-bottom-area, .footer-area {padding: 30px 0 0;}
+.advertise-area {  padding: 50px 0;}
+.rsvp-area .rsvp {margin: 30px 160px;}
+.advertise-area p {padding: 0 10px;}
+.section-title h2, .program-section-area .total-program-area .single-program .program-details h3 a {font-size: 30px;}
+.error-page-area .error-page h1 {font-size: 200px;}
+.note-me-area, .program-section-area {padding: 30px 0;}
+.our-story-area,
+.most-important-people-area,
+.portfolio-area,
+.homepage-blog-area,
+.client-logo-area,
+.error-page-area, .contact-us-page-area {  padding: 30px 0;}
+.padding-top1{padding-top:30px;}
+.contact-us-page-area .leave-comments-area {  padding-top:10px;}
+
+
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px;}
+.header-area{display: none;}
+.mobile-menu-area{display:block;}
+.header-area .main-menu ul li {padding: 20px 14px;}
+.slider-area .slider-1 h1, .slider-area .slider-2 h1 {font-size: 50px;}
+.slider-area .slider-1 p, .slider-area .slider-2 p, .home-two .slider-area .slider-2 p { padding: 0;display:none;}
+.note-me-area .note-me-task p {font-size: 18px;text-align:center;}
+.note-me-area .button a {padding: 15px 24px;}
+.slider-bottom-area .single-slider-bottom .details h2 {font-size: 39px;}
+.program-section-area .total-program-area .single-program .program-details {padding: 51px 0;}
+.rsvp-area .rsvp p {padding: 0 30px;}
+.rsvp-area .rsvp h2::after { left: 0;  right: 0;margin:auto;}
+.rsvp-area .rsvp .call-back-form fieldset .form-group button.btn-send {font-size: 18px;padding: 15px 10px;}
+.footer-area .main-footer .footer-social-icons ul li a {height: 40px;line-height: 40px;width: 38px;}
+.home-two .header-area .main-menu ul li {padding: 50px 14px;}
+.page-sidebar-area .single-sidebar .sidebar-recent-post .single-post .pull-left { margin-right: 10px;}
+.event-program-area .single-program .program-details {padding: 31px 0;}
+.event-program-area .single-program .program-details h3 a {font-size: 22px;}
+.event-program-area .single-program .program-details p {font-size: 17px;}
+.event-program-area .single-program .program-details h4 { font-size: 24px;}
+.program-section-area .total-program-area .single-program .program-details h3 a {font-size: 35px;}
+.header-area {position: inherit;}
+.header-area .main-menu ul li a{color:#222222;}
+.header-area .logo-area {  padding: 5px 0;}
+.preview-2 .nivo-controlNav {bottom: 50px;}
+.note-me-area .button {display: block;text-align: center;}
+.note-me-area .button a {display: inline-block;font-size: 14px;margin: 20px auto; text-align: center;}
+.slider-bottom-area .single-slider-bottom .details {margin-top: 3%;text-align: center;}
+.slider-bottom-area .single-slider-bottom img {width:auto;}
+.slider-bottom-area .single-slider-bottom .ring {  margin-top: 0;  text-align: center;}
+.single-slider-bottom{  text-align: center;}
+.our-story-picture {  margin-bottom: 30px;}
+.program-section-area .total-program-area .owl-buttons div {top: 50%;}
+.rsvp-area .rsvp {margin: 50px 0px;}
+.home-two .slider-area .slider-1 h1, .home-two .slider-area .slider-1 h1 span i, .home-two .slider-area .slider-2 h1,  .home-two .slider-area .slider-2 h1 span i {font-size: 45px;}
+.client-logo-area .single-logo {height: 160px;}
+.header-breadcumb-area { padding: 30px 0;}
+.page-sidebar-area {  margin-top: 30px;}
+.padding-top2{padding-top:25px;}
+.contact-us-page-area .contact-box .single-contact-box p {font-size: 15px;}
+.advertise-area p {padding: 0;}
+.section-title h2 {font-size: 32px;}
+.program-section-area .total-program-area .single-program {  padding: 0;}
+/*==== Start gallery masonary v1 area css ====*/
+.most-important-people-area .gallery-masonary-v1-area .single-gallery-masonary-item.span-3 {width: 100%;}
+.contact-us-page-area .contact-box .single-contact-box {  border-right: 0px solid #e1e1e1;}
+.error-page-area .error-page h1 {font-size: 150px;  line-height: 200px;}
+.error-page-area .error-page p { font-size: 25px;}
+/* Others Code */
+.single-blog .author-post .single-author-post .media .media-body h4.media-heading {font-size: 20px;margin-bottom: 10px;}
+.single-blog .author-comment .single-author-comment .media .media-body ul {margin-bottom: 0;margin-top:30px;}
+.error-page-area .error-page-message p {padding: 0px;}
+.slider-bottom-area, .footer-area {padding: 30px 0 0;}
+.advertise-area {  padding: 50px 0;}
+.rsvp-area .rsvp {margin:30px 0px;}
+.advertise-area p {padding: 0 10px;}
+.section-title h2, .program-section-area .total-program-area .single-program .program-details h3 a, .header-breadcumb-area .breadcumb-area h2 {font-size: 30px;}
+.error-page-area .error-page h1 {font-size:130px;}
+.note-me-area, .program-section-area {padding: 30px 0;}
+.our-story-area,
+.most-important-people-area,
+.portfolio-area,
+.homepage-blog-area,
+.client-logo-area,
+.error-page-area, .contact-us-page-area {  padding: 30px 0;}
+.padding-top1{padding-top:30px;}
+.contact-us-page-area .leave-comments-area {  padding-top:10px;}
+.most-important-people-area .gallery-filter li {display: block;}
+.padding-top480{padding-top:30px;}
+.single-event .our-story-area .our-story-content .single-our-story h3 {font-size: 20px;}
+.single-event .our-story-area .our-story-content .single-our-story .event-informations ul li {font-size: 16px;}
+.single-blog .content-info .blog-content-share-social-icons ul {  text-align: left;}
+.single-blog .author-post .single-author-post .media .pull-left,
+.single-blog .author-comment .single-author-comment .media .pull-left {display: block;float: inherit !important;margin-right: 10px;text-align: center;margin-bottom:30px;}
+.single-blog .author-post .single-author-post,
+.single-blog .author-comment .single-author-comment{text-align:center;}
+
+
+
+}
+ 
+ 
+/* Small Mobile :300px. */
+@media (max-width: 479px) {
+.container {width:300px}
+.header-area, .slider-content{display: none;}
+.mobile-menu-area{display:block;}
+.header-area .main-menu ul li {padding: 20px 14px;}
+.slider-area .slider-1 h1, .slider-area .slider-2 h1 {font-size: 50px;}
+.slider-area .slider-1 p, .slider-area .slider-2 p, .home-two .slider-area .slider-2 p { padding: 0;display:none;}
+.note-me-area .note-me-task p {font-size: 18px;text-align:center;}
+.note-me-area .button a {padding: 15px 24px;}
+.slider-bottom-area .single-slider-bottom .details h2 {font-size: 20px;}
+.program-section-area .total-program-area .single-program .program-details {padding: 51px 0;}
+.rsvp-area .rsvp p {padding: 0 0px;}
+.rsvp-area .rsvp h2::after { left: 0;  right: 0;margin:auto;}
+.rsvp-area .rsvp .call-back-form fieldset .form-group button.btn-send {font-size: 13px;padding: 15px 0;}
+.footer-area .main-footer .footer-social-icons ul li a {height: 35px;line-height: 35px;width: 35px;}
+.home-two .header-area .main-menu ul li {padding: 50px 14px;}
+.page-sidebar-area .single-sidebar .sidebar-recent-post .single-post .pull-left {  display: block;  float: inherit !important;  margin: 10px 0;}
+.event-program-area .single-program .program-details {padding: 31px 0;}
+.event-program-area .single-program .program-details h3 a {font-size: 22px;}
+.event-program-area .single-program .program-details p {font-size: 17px;}
+.event-program-area .single-program .program-details h4 { font-size: 20px;}
+.program-section-area .total-program-area .single-program .program-details h3 a {font-size: 35px;}
+.header-area {position: inherit;}
+.header-area .main-menu ul li a{color:#222222;}
+.header-area .logo-area {  padding: 5px 0;}
+.preview-2 .nivo-controlNav {bottom: 50px;}
+.note-me-area .button {display: block;text-align: center;}
+.note-me-area .button a {display: inline-block;font-size: 14px;margin: 20px auto; text-align: center;}
+.slider-bottom-area .single-slider-bottom .details {margin-top: 3%;text-align: center;}
+.slider-bottom-area .single-slider-bottom img {width:auto;}
+.slider-bottom-area .single-slider-bottom .ring {  margin-top: 0;  text-align: center;}
+.single-slider-bottom, .single-blog .content-info .blog-content-share-social-icons ul{  text-align: center;}
+.our-story-picture {  margin-bottom: 30px;}
+.program-section-area .total-program-area .owl-buttons div {top: 50%;}
+.rsvp-area .rsvp {margin: 50px 0px;}
+.home-two .slider-area .slider-1 h1, .home-two .slider-area .slider-1 h1 span i, .home-two .slider-area .slider-2 h1,  .home-two .slider-area .slider-2 h1 span i {font-size: 45px;}
+.client-logo-area .single-logo {height: 130px;}
+.header-breadcumb-area { padding: 30px 0;}
+.page-sidebar-area {  margin-top: 30px;}
+.padding-top2{padding-top:25px;}
+.contact-us-page-area .contact-box .single-contact-box p {font-size: 15px;}
+.advertise-area p {padding: 0;}
+.section-title h2, .program-section-area .total-program-area .single-program .program-details h3 a {font-size: 25px;line-height:40px;}
+.program-section-area .total-program-area .single-program {  padding: 0;}
+/*==== Start gallery masonary v1 area css ====*/
+.most-important-people-area .gallery-masonary-v1-area .single-gallery-masonary-item.span-3 {width: 100%;}
+.contact-us-page-area .contact-box .single-contact-box {  border-right: 0px solid #e1e1e1;}
+.error-page-area .error-page h1 {font-size: 150px;  line-height: 200px;}
+.error-page-area .error-page p { font-size: 25px;}
+.header-breadcumb-area .breadcumb-area h2 {font-size: 30px;}
+.error-page-area .error-page {padding: 35px 0;}
+.contact-us-page-area .contact-us-page h2 {font-size: 27px;}
+.contact-us-page-area .contact-us-page p {  padding: 0;}
+.single-blog .single-news-page h3 a, .single-event .our-story-area .our-story-content .single-our-story h3 {font-size: 23px;}
+.single-blog .single-news-page ul {  margin-bottom: 0;  padding-bottom: 15px;  text-align: center;}
+.single-blog .author-comment .single-author-comment .media .pull-left {display: block;float: inherit !important;margin-bottom: 20px;margin-right: 0;text-align: center;
+}
+.event-program-area .single-program .program-details span, .program-section-area .total-program-area .single-program .program-details span {width: auto;}
+.single-event .our-story-area .our-story-content .single-our-story .event-informations ul li {font-size: 12px;line-height: 0;margin-bottom: 10px;}
+.our-story-area .our-story-content .single-our-story .our-story-featured-images span {height: 50px;width: 50px;}
+.our-story-area .our-story-content .single-our-story .our-story-featured-images span i {bottom: 16px; right: 15px;}
+.program-section-area .total-program-area .single-program .program-details p {font-size: 16px;}
+.program-section-area .total-program-area .single-program .program-details h4 { font-size: 20px;}
+.rsvp-area .rsvp h2::after {background: #dddddd none repeat scroll 0 0;height: 2px;top: 68px;}
+/* Others Code */
+.single-blog .author-post .single-author-post .media .media-body h4.media-heading {font-size: 20px;margin-bottom: 10px;}
+.single-blog .author-comment .single-author-comment .media .media-body ul {margin-bottom: 0;margin-top:30px;}
+.error-page-area .error-page-message p {padding: 0px;}
+.slider-bottom-area, .footer-area {padding: 30px 0 0;}
+.advertise-area {  padding: 50px 0;}
+.rsvp-area .rsvp {margin:30px 0px;}
+.advertise-area p {padding: 0 10px;}
+.section-title h2, .program-section-area .total-program-area .single-program .program-details h3 a, .header-breadcumb-area .breadcumb-area h2 {font-size: 20px;}
+.error-page-area .error-page h1 {font-size:130px;}
+.note-me-area, .program-section-area {padding: 30px 0;}
+.our-story-area,
+.most-important-people-area,
+.portfolio-area,
+.homepage-blog-area,
+.client-logo-area,
+.error-page-area, .contact-us-page-area {  padding: 30px 0;}
+.padding-top1{padding-top:30px;}
+.contact-us-page-area .leave-comments-area {  padding-top:10px;}
+.most-important-people-area .gallery-filter li {display: block;}
+.padding-top480{padding-top:30px;}
+.single-event .our-story-area .our-story-content .single-our-story h3 {font-size: 20px;}
+.single-event .our-story-area .our-story-content .single-our-story .event-informations ul li {font-size:12px;}
+.single-blog .content-info .blog-content-share-social-icons ul {  text-align: center;}
+.single-blog .author-post .single-author-post .media .pull-left,
+.single-blog .author-comment .single-author-comment .media .pull-left {display: block;float: inherit !important;margin-right: 10px;text-align: center;margin-bottom:30px;}
+.single-blog .author-post .single-author-post,
+.single-blog .author-comment .single-author-comment, .single-blog .author-comment h2{text-align:center;}
+.advertise-area h3{font-size:24px;}
+.rsvp-area .rsvp {padding: 20px;}
+
+
+
+}
